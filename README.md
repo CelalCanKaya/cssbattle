@@ -6,3 +6,4 @@ This repository contains my solutions for the problems on cssbattle.dev.
 
 - [#1 - Simply Square](./solutions/1-pilot-battle/1-simply-square.md)
 - [#2 - Carrom](./solutions/1-pilot-battle/2-carrom.md)
+- [#3 - Push Button](./solutions/1-pilot-battle/3-push-button.md)
