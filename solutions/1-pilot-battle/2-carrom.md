@@ -2,7 +2,7 @@
 
 ## #2 - Carrom
 
-[Link to the problem](https://cssbattle.dev/play/1)
+[Link to the problem](https://cssbattle.dev/play/2)
 
 ![result](./images/2-carrom.png)
 
