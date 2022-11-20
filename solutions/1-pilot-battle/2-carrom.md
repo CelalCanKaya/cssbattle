@@ -1,6 +1,6 @@
 # Battle #1 - Pilot Battle
 
-## #1 - Simply Square
+## #2 - Carrom
 
 [Link to the problem](https://cssbattle.dev/play/1)
 
