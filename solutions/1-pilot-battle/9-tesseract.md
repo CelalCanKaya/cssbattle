@@ -1,6 +1,6 @@
 # Battle #1 - Pilot Battle
 
-## #8 - Tesseract
+## #9 - Tesseract
 
 [Link to the problem](https://cssbattle.dev/play/9)
 

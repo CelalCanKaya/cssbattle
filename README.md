@@ -13,3 +13,4 @@ This repository contains my solutions for the problems on cssbattle.dev.
 - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
 - [#8 - Forking Crazy](./solutions/1-pilot-battle/8-forking-crazy.md)
 - [#9 - Tesseract](./solutions/1-pilot-battle/9-tesseract.md)
+- [#10 - Cloaked Spirits(./solutions/1-pilot-battle/10-cloaked-spirits.md)
