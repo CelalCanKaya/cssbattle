@@ -12,3 +12,4 @@ This repository contains my solutions for the problems on cssbattle.dev.
 - [#6 - Missing Slice](./solutions/1-pilot-battle/6-missing-slice.md)
 - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
 - [#8 - Forking Crazy](./solutions/1-pilot-battle/8-forking-crazy.md)
+- [#9 - Tesseract](./solutions/1-pilot-battle/9-tesseract.md)
