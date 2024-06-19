@@ -11,3 +11,4 @@ This repository contains my solutions for the problems on cssbattle.dev.
 - [#5 - Acid Rain](./solutions/1-pilot-battle/5-acid-rain.md)
 - [#6 - Missing Slice](./solutions/1-pilot-battle/6-missing-slice.md)
 - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
+- [#8 - Forking Crazy](./solutions/1-pilot-battle/8-forking-crazy.md)
