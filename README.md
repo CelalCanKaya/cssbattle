@@ -14,3 +14,4 @@ This repository contains my solutions for the problems on cssbattle.dev.
 - [#8 - Forking Crazy](./solutions/1-pilot-battle/8-forking-crazy.md)
 - [#9 - Tesseract](./solutions/1-pilot-battle/9-tesseract.md)
 - [#10 - Cloaked Spirits](./solutions/1-pilot-battle/10-cloaked-spirits.md)
+- [#11 - Eye of Sauron](./solutions/1-pilot-battle/11-eye-of-sauron.md)
